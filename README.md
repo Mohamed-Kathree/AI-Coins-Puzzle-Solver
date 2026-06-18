@@ -200,4 +200,4 @@ Contains `main()`, `processStartState()`, and `solvePuzzle()`. Handles file I/O 
 
 ---
 
-*CSC311 — Artificial Intelligence, Practical 1, Term 1 2025. University of the Western Cape.*
+
