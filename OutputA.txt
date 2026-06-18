@@ -1,0 +1,25 @@
+B R B R 0 R B h=3
+B R B 0 R R B h=2
+B 0 B R R R B h=2
+0 B B R R R B h=2
+B B 0 R R R B h=2
+B B R 0 R R B h=2
+B 0 R B R R B h=3
+B R B R R 0 B h=3
+B R B R R B 0 h=3
+B R B R 0 B R h=3
+B R B 0 R B R h=2
+B 0 B R R B R h=2
+B R B B R 0 R h=2
+0 B B R R B R h=2
+B B 0 R R B R h=2
+B R B B 0 R R h=2
+B R B B R R 0 h=2
+B B R 0 R B R h=2
+B B R B R 0 R h=2
+B B R B R R 0 h=2
+B R B 0 B R R h=2
+B B R B 0 R R h=2
+B B 0 B R R R h=1
+B B B 0 R R R h=0
+Goal state reached!
